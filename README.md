@@ -114,8 +114,4 @@ If you enjoyed playing **Super Over Saga**, consider supporting the project!
 
 ---
 
-## 🏷️ Tags
-
-`#cricket` `#IPL` `#reactjs` `#framermotion` `#arcadegame` `#webgaming` `#comicbooks` `#frontend` `#vite` `#javascript`
-
 Created with ❤️ by [Devesh Talreja](https://github.com/devesh-talreja)
