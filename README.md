@@ -5,7 +5,10 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Super Over Saga** is a high-octane, comic-book styled cricket arcade game built with React. Step into the shoes of your favorite IPL legends and face off against world-class bowlers in a nail-biting 6-ball super over. Can you beat the target and cement your place in the Hall of Fame?
+🏏 **Super Over Saga** is a high-octane, comic-book styled cricket arcade experience. Step into the shoes of your favorite IPL legends and face off against world-class bowlers in a nail-biting 6-ball super over. Can you beat the target and cement your place in the Hall of Fame? 💥⚡
+
+[![Play Now](https://img.shields.io/badge/PLAY-NOW-brightgreen?style=for-the-badge&logo=netlify)](https://super-over-saga.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-https%3A%2F%2Fsuper--over--saga.netlify.app-blueviolet?style=flat-square)](https://super-over-saga.netlify.app/)
 
 ---
 
@@ -109,4 +112,10 @@ If you enjoyed playing **Super Over Saga**, consider supporting the project!
 - **Fork it** and add your own IPL teams or characters.
 - **Report bugs** or suggest new features via the Issues tab.
 
-Created with ❤️ by [Your Name/Handle]
+---
+
+## 🏷️ Tags
+
+`#cricket` `#IPL` `#reactjs` `#framermotion` `#arcadegame` `#webgaming` `#comicbooks` `#frontend` `#vite` `#javascript`
+
+Created with ❤️ by [Devesh Talreja](https://github.com/devesh-talreja)
